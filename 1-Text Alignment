@@ -1,0 +1,32 @@
+TEXT ALIGNMENT
+
+1.When a text is displayed in a webpage the default alignment is to the left
+
+2.In Bootstap text alignment can be adjusted using the Bootstrap text alignment feature.
+
+
+TEXT ALIGNMENT EXAMPLES:
+
+text-start:Align to the left.
+
+text-center:Align to the center.
+
+text-end: Align to the right.
+
+EXAMPLE 1: TEXT ALIGN TO THE RIGHT
+
+<p class="text-end">
+
+...
+
+</p>
+
+
+EXAMPLE 2:TEXT ALIGN TO THE CENTER
+
+<p class="text-center"?
+
+...
+
+</p>
+
